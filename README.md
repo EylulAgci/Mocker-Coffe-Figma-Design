@@ -4,4 +4,4 @@
 
 # List Page
 
-![alt text](https://github.com/EylulAgci/Mocker-Coffee-Figma-Design/blob/main/Mocker%20Coffee%20HList.jpg?raw=true)
+![alt text](https://github.com/EylulAgci/Mocker-Coffee-Figma-Design/blob/main/Mocker%20Coffee%20List.jpg?raw=true)
